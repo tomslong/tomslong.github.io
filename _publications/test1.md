@@ -5,5 +5,5 @@ img: img/publications/test1.png
 
 
 
-[PDF](/_publications/pdf/EffectiveJava.pdf) [Code](url_to_code) [Slide](url_to_slide)
+[PDF](/_publications/pdf/EffectiveJava.pdf) [Code](/_publications/code/test2.ipynb) [img](/img/home-bg/1.jpg)
 <a href="/_publications/pdf/EffectiveJava.pdf">你好</a>
