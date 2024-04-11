@@ -1,2 +1,2 @@
 # tomslong.github.io
-persional blog
+personal blog
