@@ -9,7 +9,7 @@ avatar: "img/header-avatar.jpeg"                    # the avatar showing on the 
 
 
 # GitHub repository (if the site is hosted by GitHub)
-repository: Renovamen/jekyll-theme-gungnir
+repository: tomslong.github.io
 repository_branch: main
 
 
