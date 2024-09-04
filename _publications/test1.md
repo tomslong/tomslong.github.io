@@ -1,6 +1,6 @@
 ---
 title: 资源标题
-img: img/publications/test1.png
+img: img/publications/兔子挂牌.svg
 ---
 
 
