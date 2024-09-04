@@ -3,7 +3,7 @@ layout: post
 header-style: text
 title: 项目标题
 author: Thomas
-
+catalog: true
 img: img/projects/projects.svg
 ---
 
